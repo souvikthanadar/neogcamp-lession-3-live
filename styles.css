@@ -16,6 +16,12 @@ hr {
     margin: 2rem 0rem;
 }
 
+/** project gaps **/
+.gaping {
+
+    padding-bottom: 3rem;
+}
+
 
 /** container **/
 
@@ -93,6 +99,7 @@ hr {
 
 .hero {
     padding: 2rem;
+    padding-top: 3rem;
 }
 .hero .hero-img {
     max-width: 350px;
@@ -101,7 +108,7 @@ hr {
 }
 
 .hero .hero-heading {
-    padding-top: 1rem;
+    padding-top: 3rem;
     color:var(--dark-grey);
     text-align: center;
 }
